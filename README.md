@@ -52,4 +52,4 @@ Quand un utilisateur like ou commente une photo tout les utilisateur suivant la 
 
 A etais developper par Gaulet Marvin et Gaulet Alexandre
 
-<h4>                                                                                         Gaulet Alexandre <h4>
+<h4>                                                                                         Gaulet Marvin <h4>
