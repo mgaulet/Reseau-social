@@ -1,0 +1,25 @@
+
+.col-lefts {
+    position: fixed;
+    left: 66%;
+}
+
+.col-leftss {
+    margin-left: 20%;
+}
+
+.row-bg {
+    margin-top: 9%;
+}
+
+.imageFontShadow {
+    z-index: 5;
+  
+    position: fixed;
+    opacity: 0.4;
+    width: 100%;
+    height: 100%;
+    background-image: url("/icon/noir.jpeg");
+    background-size: cover;
+  }
+  

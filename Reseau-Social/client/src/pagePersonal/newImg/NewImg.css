@@ -1,0 +1,14 @@
+.img_window {
+    z-index: 30;
+    margin-left: 35%;
+    margin-top: 5%;
+    position: fixed;
+    /* overflow: hidden; */
+  }
+
+.img_wiwi {
+  background: rgba(0, 0, 0, 0.315);
+  border-radius: 7px;
+  color: #CDD6D5;
+  font-family: 'Raleway', sans-serif;
+}

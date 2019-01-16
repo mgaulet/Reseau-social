@@ -1,0 +1,24 @@
+.policeF {
+    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.frtt_signin {
+    display: flex;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 60px;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Fredericka the Great', cursive;
+}
+
+.center {
+    margin-right: 25%; 
+    margin-left: 25%; 
+}

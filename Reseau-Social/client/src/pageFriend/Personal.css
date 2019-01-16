@@ -1,0 +1,157 @@
+.imageFontShadow {
+    z-index: 10;
+  
+    position: fixed;
+    opacity: 0.4;
+    width: 100%;
+    height: 100%;
+    background-image: url("/icon/noir.jpeg");
+    background-size: cover;
+  }
+
+  .tuti{
+      margin-top: 15px;
+      margin-bottom: 15px;
+      margin-left: 49%;
+  }
+
+ .btnPushI {
+    transform: rotate(180deg);
+    width: 35px;
+    height: 35px;
+    color: rgb(213, 212, 212);
+    text-shadow : 0px 0px 5px rgb(117, 116, 116);
+ }
+
+  
+
+
+.imageP {
+    z-index: 2;
+    width: 152px;
+    height: 152px;
+    border-radius: 50%;
+    border: 1px solid rgba(29, 26, 26, 0.358);
+    /* margin-right: 14px;
+    margin-left: 6px; */
+}
+
+.tjbn4 {
+    margin-left: 35px;
+    margin-top: -10px;
+}
+.firstDIV {
+    margin-bottom: 50px;
+}
+._5mToa {
+    border-top: 1px solid #e8e6e6;
+    height: 1px;
+    margin: 0 0 12px;
+    width: 100%;
+}
+
+
+.containerP {
+    margin-top:10%;
+    margin-right:20%;
+    margin-left:20%;
+}
+
+.tuitr4 {
+    margin-left: 100px;
+}
+.fontP {
+
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 160;
+    color: black;
+
+}
+.numFT {
+    font-weight: 500;
+    font-size: 17px;
+}
+.topBkgl{
+    margin-top: 5px;
+}
+
+.pubAbAb {
+    margin-right: 40px;
+    font-size: 16px;
+    font-weight: 90;
+    color: black;
+}
+
+.frtt {
+    display: flex;
+}
+
+.btnnt {
+    margin-top: 4px;
+    margin-left: 18px;
+}
+
+.ecrou {
+    margin-left: 18px;
+}
+
+.nameSur {
+    font-size: 16px;
+    font-weight: 500;
+    color: black;
+}
+
+.label-file {
+    cursor: pointer;
+    color: #0000007b;
+    font-weight: bold;
+    margin-left: 300px;
+    margin-right: 150px;
+    width: 130px;
+    font-size: 23px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+
+.label-file:hover {
+    color: #e8e6e6;
+}
+
+.yuin65 {
+    margin-left: -250px;
+}
+
+.input-file {
+    visibility: hidden;
+    margin-left: -200px;
+}
+
+.dwDIV2{
+    margin-left: -40px;
+    margin-right: -33px;
+}
+
+.imageI {
+    width: 292px;
+    height: 292px;
+    margin-right: 25px;
+}
+
+.dncd {
+    margin-top: 10px;
+    margin-right: -200px;
+    display: flex;
+}
+
+.fCircle {
+    z-index: 1;
+    background-color: rgba(245, 245, 245, 0.913);
+    margin-left: -6.65px;
+    margin-top: -6.6px;
+    width: 165px;
+    height: 165px;
+    border: 2px solid rgb(189, 189, 189);
+    position: absolute;
+    border-radius: 50%;
+}

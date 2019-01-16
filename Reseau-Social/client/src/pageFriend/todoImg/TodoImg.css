@@ -1,0 +1,44 @@
+.salte {
+    z-index: 100;
+}
+.containers {
+    width: 292px;
+    height: 292px;
+    margin-right: 25px;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 14px;
+}
+.overlay {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    opacity: 0;
+    transition: .1s ease;
+    background-color: black;
+}
+.containers:hover .overlay {
+    opacity: 1;
+    background-color: rgba(0, 0, 0, 0.393);
+}
+
+.flex {
+    display: flex;
+}
+
+.btnII {
+    font-size: 34px;
+    color: #ffffff;
+    margin-top: 43%;
+    margin-left: 95px;
+}
+.btnII2 {
+    font-size: 34px;
+    color: #ffffff;
+    margin-top: 43%;
+    margin-left: -170px;
+}

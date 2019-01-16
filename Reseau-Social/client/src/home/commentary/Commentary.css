@@ -1,0 +1,13 @@
+
+#accordion section p {
+    display: none;
+}
+
+#accordion section a:hover {
+    text-decoration: underline;
+}
+
+#accordion section:target p {
+    display: block;
+}
+
