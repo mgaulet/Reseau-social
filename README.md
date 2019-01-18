@@ -2,7 +2,7 @@
 
 
 <h4>
-Ce si est un reseau social, consu avec les technologies suivante:
+Ce si est un reseau social, concu avec les technologies suivantes:
 </h4>
 
 1. reactjs
