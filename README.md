@@ -1,6 +1,5 @@
 # Reseau Social
 
-
 <h4>
 Ce si est un reseau social, consu avec les technologies suivante:
 </h4>
@@ -17,39 +16,36 @@ Ce si est un reseau social, consu avec les technologies suivante:
 <h4>
 Descrition des fonctionnalités de cette apli web
 </h4>
-Dans ce reseau social il est possible de s'abonner a une personne qui n'est pas en priver si elle est, alors une req est envoyer a la personne ou il poura accepter ou decliner la demande.
+Dans ce reseau social, il est possible de s’abonner a une personne qui n’est pas en privé, ci elle est, alors une req est envoyée a la personne ou elle elle pourra accepter ou decliner la demande.
 
-Des l'aure que quelqu un s'abonne a un utilisateur une boite de message
-priver ce creer entre eu
+Des lorsque quelqu un s’abonne a un utilisateur une boite de messages privé se crée entre eux.
 
-<img width="700" alt="capture d ecran 2019-01-10 a 23 54 34" src="https://user-images.githubusercontent.com/23437868/51002757-9abbea80-1534-11e9-86af-6a8e9db61132.png">
+<img width=“700” alt=“capture d ecran 2019-01-10 a 23 54 34" src=“https://user-images.githubusercontent.com/23437868/51002757-9abbea80-1534-11e9-86af-6a8e9db61132.png“>
 
 
-Il est aussi possible de mettre dans ca page personnel des photo (redimention de la photo et un petit
-commantaire avant de la poster)
+Il est aussi possible de mettre dans sa page personnelle des photos (redimension de la photo et un petit commentaire avant de la poster)
 
-<img width="700" alt="capture d ecran 2019-01-11 a 17 48 30" src="https://user-images.githubusercontent.com/23437868/51047677-647c7a80-15c9-11e9-9a99-8e264aea4d44.png">
+<img width=“1440” alt=“capture d ecran 2019-01-16 a 19 34 28" src=“https://user-images.githubusercontent.com/23437868/51409017-e556eb80-1b60-11e9-9bd1-947fa1ba0c83.png”>
 
- <img width="700" alt="capture d ecran 2019-01-10 a 23 57 38" src="https://user-images.githubusercontent.com/23437868/51002804-c0e18a80-1534-11e9-9cc5-13ee22190d34.png">
+<img width=“700" alt=“capture d ecran 2019-01-10 a 23 57 38” src=“https://user-images.githubusercontent.com/23437868/51002804-c0e18a80-1534-11e9-9cc5-13ee22190d34.png”>
 
-Cette page personnel peut etre priver.
-En priver seulement les amies peuvent voir vos photo et si elle ne les pas tout les personne peuvent y avoir acces (avec la barre de recherche en t'append son nom, prenom ou dans
-leur liste d'amies)
+Cette page personnelle peut etre privée.
+En privé seulement, les amies peuvent voir vos photos mais si elle ne l’es pas toutes les personnes peuvent y avoir accés (avec la barre de recherche en tapand son nom, prénom ou dans leur liste d’amies)
 
- <img width="700" alt="capture d ecran 2019-01-10 a 23 54 49" src="https://user-images.githubusercontent.com/23437868/51002673-56c8e580-1534-11e9-93f7-c76f4eb99e77.png">
+<img width=“700” alt=“capture d ecran 2019-01-10 a 23 54 49" src=“https://user-images.githubusercontent.com/23437868/51002673-56c8e580-1534-11e9-93f7-c76f4eb99e77.png”>
 
-ils y a un file d'actualiter de photo (file deroulente vers le bas trier par date les plus ressente) personnaliser selon nos follow.
-Il y a un nombre de photo fix exemple 30: il est possible de charger d'autre photo plus ancienne de 30 en 30.
-Chaque photo poster par un utilisateur est poster en live dans le file d'actualiter de c'est followers 
+ils y a un fil d’actualité des photos (deroulant vers le bas trié par les dates les plus récentes) personnalisées selon nos follow.
+Il y a un nombre de photos fixes exemple 30: il est possible de charger d’autres photos plus anciennes de 30 en 30.
+Chaque photo postée par un utilisateur est en live dans le fil d’actualité de ces followers
 
 
 
-Chaque photo on un systeme de like propre a eu meme et de commantaire, a chaque commantaire poster nous affichons le nom d'utilisateur de celui ou celle qui l'a ecrite.
-Quand un utilisateur like ou commente une photo tout les utilisateur suivant la personne ayant poster la photo et ce qui visite ca page personnel (non abonner) recevrons en live le like ou commentaire.
+Chaque photo a un systeme de like et de commantaires, a chaque commantaire posté nous affichons le nom de l’utilisateur de celui ou celle qui l’a ecrit.
+Quand un utilisateur like ou commente une photo tous les utilisateurs suivants la personne ayant posté la photo et ceux qui visitent sa page personnelle (non abonnés) recevron en live le like ou commentaire.
 
- <img width="500" alt="capture d ecran 2019-01-10 a 23 55 19" src="https://user-images.githubusercontent.com/23437868/51003029-7ad8f680-1535-11e9-9510-d2670445d507.png">
+<img width=“500" alt=“capture d ecran 2019-01-10 a 23 55 19” src=“https://user-images.githubusercontent.com/23437868/51003029-7ad8f680-1535-11e9-9510-d2670445d507.png”>
 <br>
 
-A etais developper par Gaulet Marvin et Gaulet Alexandre
+A ete développé par Gaulet Marvin et Gaulet Alexandre
 
 <h4>                                                                                         Gaulet Marvin <h4>
